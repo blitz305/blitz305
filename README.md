@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Blitz!
 
-<!--
-**blitz305/blitz305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bioinformatics undergraduate** at Southern Medical University  
+💻 Learning **R for data analysis** & **Python for machine learning**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+- R: data visualization, survival analysis  
+- Python: ML basics, data preprocessing  
+
+---
+
+### 🚀 Current Focus
+- Developing data pipelines for biomedical datasets  
+- Applying ML models to health and genomic data  
+- Combining R & Python in workflow automation  
+
+---
+
+### 🌱 Motto
+> “The world is rigrous, but trying to be better.”
+
+💬 Fun Fact  
+When I’m not debugging R scripts, I’m probably debugging my coffee ratio.
+
+---
+
+### 📫 Contact
+Email: welon0725@outlook.com
+
