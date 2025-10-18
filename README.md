@@ -25,7 +25,7 @@
 > “The world is cruel, but I'm trying to be better.”
 
 ### 💬 Fun Fact  
-When I’m not debugging R scripts, I’m probably debugging my coffee ratio.
+> "When I’m not debugging R scripts, I’m probably debugging my coffee ratio."
 
 ---
 
