@@ -21,10 +21,6 @@
 
 ---
 
-### 💬 Fun Fact  
-> "I am debugging coffee ratio."
-
----
 
 ### 📫 Contact
 Email: welon0725@outlook.com
